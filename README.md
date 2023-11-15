@@ -78,5 +78,5 @@ VITE_MEASUREMENT_ID=""YOUR_MEASUREMENT_ID"
 
 ## Authors
 
-- [@dillah25](https://www.github.com/dillah25)
+- [@abdillah25](https://www.github.com/abdillah25)
 
