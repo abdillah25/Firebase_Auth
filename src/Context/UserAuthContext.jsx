@@ -125,7 +125,6 @@ export const UserAuthContextProvider = ({ children }) => {
     };
   }, []);
 
-  console.info(user);
   return (
     <UserAuthContext.Provider
       value={{
