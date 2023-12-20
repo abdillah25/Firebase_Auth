@@ -19,6 +19,7 @@ export const Dashboard = () => {
   const handleDeleteUserAccount = () => {
     document.getElementById("my_modal_1").showModal();
   };
+
   const FinalDeleteUserHandler = async () => {
     try {
       setIsDeletingAccount(true); // Set state menjadi true saat proses penghapusan dimulai
